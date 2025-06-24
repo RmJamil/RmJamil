@@ -38,9 +38,21 @@ Skills:   REACT / JS /Node.Js/Express.Js/Firebase/MongoDb/ HTML / CSS/TailwindCS
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmjamil&show_icons=true&locale=en" alt="rmjamil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmjamil&" alt="rmjamil" /></p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/rmjamil)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/rmjamil)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/rmjamil&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/rmjamil/contributions?format=svg&private=true)  
+
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/rmjamil)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/rmjamil)  
+
+
 
 
 
