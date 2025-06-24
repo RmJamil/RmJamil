@@ -8,7 +8,7 @@ My core strengths lie in designing RESTful APIs, integrating third-party service
 
 I am passionate about clean code, performance optimization, and continuous learning. I thrive in team environments, enjoy solving real-world problems, and contribute to building impactful software products.
 
-Skills:   REACT / JS /Node.Js/Express.Js/Firebase/MongoDb/ HTML / CSS/TailwindCSS/BootStrap/
+
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning TypeScript 
