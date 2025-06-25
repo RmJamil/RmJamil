@@ -2,6 +2,8 @@
 #### I am a Web Developer
 ![I am a Web Developer](https://i.postimg.cc/PqgWQxqk/aaaa.avif)
 
+About me:
+
 I am a skilled and results-driven MERN Stack Developer with hands-on experience in building scalable web applications using MongoDB, Express.js, React.js, and Node.js. With a strong foundation in both frontend and backend development, I specialize in creating full-stack solutions that are efficient, responsive, and user-friendly.
 
 My core strengths lie in designing RESTful APIs, integrating third-party services, managing databases, and developing rich, interactive UIs. I follow modern development practices including component-based architecture, state management using Redux or Context API, and deployment using cloud services like Heroku, Vercel, or AWS.
