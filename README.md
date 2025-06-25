@@ -12,6 +12,15 @@ I am passionate about clean code, performance optimization, and continuous learn
 
 
 <h2>Activity</h2>
+<ul>
+  <li>🔭 I’m currently working on Web Development</li>
+  <li>I’m currently learning TypeScript </li>
+  <li>👯 I’m looking to collaborate on Github </li>
+  <li>💬 Ask me about Web Development </li>
+  <li>📫 How to reach me: jecoton@gmail.com </li>
+
+</ul>
+
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning TypeScript 
 - 👯 I’m looking to collaborate on Github 
