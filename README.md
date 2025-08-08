@@ -55,15 +55,7 @@ I am passionate about clean code, performance optimization, and continuous learn
 
 
 
-<h2>How to reach me</h2>
 
-
-<div align="center">
-<a href="https://www.facebook.com/jamil.raihan.14" target="_blank">  <img src="https://i.postimg.cc/zDyLswPj/f.png" width="90" height="40" alt="Facebook logo"  /></a>
-<a href="https://github.com/rmjamil" target="_blank">  <img src="https://i.postimg.cc/kgJ7mqgm/gggit.png" width="90" height="40" alt="Github logo"  /></a>
-  <a href="https://discord.com/channels/1386736092312502432/1386736092312502435" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
-
-</div>
 
 ## Connect with me  
 <div align="center">
