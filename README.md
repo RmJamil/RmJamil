@@ -16,7 +16,7 @@ My core strengths lie in designing RESTful APIs, integrating third-party service
 I am passionate about clean code, performance optimization, and continuous learning. I thrive in team environments, enjoy solving real-world problems, and contribute to building impactful software products.
 
 
-<h2>Activity</h2>
+<h2>Current activity</h2>
 <ul>
   <li>🔭 I’m currently working on Web Development using NEXT.js</li>
   <li>I’m currently learning TypeScript </li>
