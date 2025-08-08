@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Md. Mahmud Jamil
 <h2>Designation</h2>
-<p>Junior Wb Developer</p>
+<p>Junior Web Developer</p>
 <img src="https://i.postimg.cc/02dPDfmJ/Web-Developer.png"/>
 
 
