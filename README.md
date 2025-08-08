@@ -77,7 +77,7 @@ I am passionate about clean code, performance optimization, and continuous learn
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://discord.com/users/yourid" target="_blank" rel="noopener noreferrer">
+<a href="https://discord.com/channels/1386736092312502432/1386736092312502435" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"
     alt="Discord"
@@ -86,7 +86,7 @@ I am passionate about clean code, performance optimization, and continuous learn
 </a>
 
 
-<a href="https://x.com/yourhandle" target="_blank" rel="noopener noreferrer">
+<a href="https://x.com/jamil8451" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white"
     alt="X (formerly Twitter)"
